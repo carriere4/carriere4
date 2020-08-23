@@ -1,4 +1,4 @@
-### Hi there. I'm the old man. Wouldn't have it any other way. You can stay on my lawn if you are nice.
+### Hi there. I'm the old man. Wouldn't have it any other way. You can stay on my lawn if you're nice.
 
 - 🔭 I’m currently working on Scandy stuff - 3D scanning on mobile devices. Also learning to code when I have time. Which isn't a lot.
 - 🌱 I’m currently learning python + javascript. Also trying to write better tickets when I do the PM thing.
