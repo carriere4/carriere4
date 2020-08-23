@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Beer and whiskey make me more fun and less factual.
 
-[![Charles's github stats](https://github-readme-stats.vercel.app/api?username=carriere4)](https://github.com/carriere4/github-readme-stats)
+[![Charles's github stats](https://github-readme-stats.vercel.app/api?username=carriere4&count_private=true&show_icons=true)](https://github.com/carriere4/github-readme-stats)
