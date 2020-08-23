@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**carriere4/carriere4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there. I'm the old man. Wouldn't have it any other way. You can stay on my lawn if you are nice.
 
 - 🔭 I’m currently working on Scandy stuff - 3D scanning on mobile devices. Also learning to code when I have time. Which isn't a lot.
 - 🌱 I’m currently learning python + javascript. Also trying to write better tickets when I do the PM thing.
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: charles@scandy.co or say hey @carriere4 on Twitter
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Beer and whiskey make me more fun and less factual.
--->
+
