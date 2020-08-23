@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with marketing. That sh\t is *hard*. 
 - 📫 How to reach me: charles@scandy.co or say hey @carriere4 on Twitter
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Beer and whiskey make me more fun and less factual.
 -->
