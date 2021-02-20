@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on 3D scanning on mobile devices. Because that is what Scandy does.
 - 🤔 I’m looking for help with marketing. That sh\t is *hard*. 
 - 📫 How to reach me: charles@scandy.co or say hey @carriere4 on Twitter
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Beer and whiskey make me more fun and less factual.
+- 😄 Pronouns: he/him - just don't call me late for dinner
+- ⚡ Fun fact: espresso is my superpower
 
 [![Charles's github stats](https://github-readme-stats.vercel.app/api?username=carriere4&count_private=true&show_icons=true)](https://github.com/carriere4/github-readme-stats)
