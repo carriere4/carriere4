@@ -8,6 +8,7 @@
 - ⚡ Fun fact: espresso is my superpower
 
 Personal Projects:
+
 [PyAcquire.com](https://pyacquire.com)
 
 
