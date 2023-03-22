@@ -1,7 +1,7 @@
 ### Hi there. 
 
 - 🔭 I’m currently working at Scandy - 3D scanning on mobile devices
-- 🌱 Python + NoCode projects
+- 🌱 Python + Rust projects
 - 📫 How to reach me: 
       -   If you want to chat about 3D scanning on mobile devices:  charles@scandy.co
       -   Personal connections? Say hey @carriere4 on Twitter
