@@ -8,6 +8,8 @@
 - ⚡ Fueled by espresso and optimism
 
 Personal Projects:
+
+
 [Fusion Chronicles](https://fusionchronicles.com)
 
 
