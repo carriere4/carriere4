@@ -4,7 +4,7 @@
 - 🌱 Python + Rust projects
 - 📫 How to reach me: 
       -   If you want to chat about 3D scanning on mobile devices:  charles@scandy.co
-      -   Personal connections? Say hey @carriere4 on Twitter
+      -   Personal connections? Say hey [@carriere4](https://twitter.com/carriere4) on Twitter
 - ⚡ Fueled by espresso and optimism
 
 Personal Projects:
