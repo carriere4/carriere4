@@ -5,10 +5,10 @@
 - 📫 How to reach me: 
       -   If you want to chat about 3D scanning on mobile devices:  charles@scandy.co
       -   Personal connections? Say hey @carriere4 on Twitter
-- ⚡ Fun fact: espresso is my superpower
+- ⚡ Fueled by espresso and optimism
 
 Personal Projects:
-
+[Fusion Chronicles](https://fusionchronicles.com)
 [PyAcquire.com](https://pyacquire.com)
 
 
