@@ -11,7 +11,7 @@ Personal Projects:
 
 [Fusion Chronicles](https://fusionchronicles.com)
 
-[PyAcquire.com](https://pyacquire.com)
+[Resolver Labs](https://resolverlabs.com)
 
 
 
